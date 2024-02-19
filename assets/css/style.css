@@ -453,6 +453,10 @@ footer{
         height: 100vh;
         background-position: top;
     }
+    .hero-content-section{
+        padding-top: 0;
+        margin-top: -40%;
+    }
     .lg-head{
         font-size: 26px;
         line-height: 34px;
