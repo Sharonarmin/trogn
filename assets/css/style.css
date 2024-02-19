@@ -483,4 +483,7 @@ footer{
     .principle-details{
         top:85%;
     }
+    .offcanvas-start{
+        width: 340px;
+    }
 }
